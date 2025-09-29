@@ -1,1 +1,1 @@
-# ![Untitled202_20250525122021](https://github.com/user-attachments/assets/a84e78aa-7e11-483a-91be-18a69d8c915b)
+# [![Image of https://github.com/melogabriel/repositories-views-counter](https://github.com/melogabriel/repositories-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/melogabriel/repositories-views-counter)

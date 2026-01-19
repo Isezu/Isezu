@@ -1,2 +1,2 @@
 # ✦
-![](https://komarev.com/ghpvc/?username=Isezu)
+![](https://komarev.com/ghpvc/?username=Isezu&color=yellowgreen)
